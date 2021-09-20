@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-21T01:25:20+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/ПК/Downloads/videoplayback.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../../Downloads/videoplayback.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:54278b4c-d83b-4957-a6f3-c48373267cdb</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">57</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="28580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="38056"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="38056"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="48774"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="48774"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="58515"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="58523"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="76301"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="76310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="78735"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="78777"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="93187"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="93204"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="96209"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="96687"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="106323"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="106323"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="114535"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="114535"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="124162"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="124167"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="134322"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="134337"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="137644"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="137675"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="150458"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="150458"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="151845"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="151895"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="156225"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="156253"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="157134"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="157493"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="160706"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="160740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="162072"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="162101"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="165192"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="165819"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="169405"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="169417"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="178086"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="178086"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="193632"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="193633"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="198308"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="198308"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="202965"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="202998"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="209875"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="209875"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="216360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="216360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="227962"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="227962"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="236568"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER ANNOTATOR="Воробьёва Ольга" LINGUISTIC_TYPE_REF="utterance"
+        PARTICIPANT="@vsch1938" TIER_ID="@vsch1938-text">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>ну я и в молодости / выдавал когда меня доведут / доводили / я думаю это заслуга папы с мамой / это их / у меня мама была с юмором с таким / интересного да</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>да конечно нет / конечно нет всё это / а потом конечно с опытом / а потом я всегда эти вот высказывания рождались они опять к чему-то были всегда привязаны / не просто так я там сидел там выдумывал или там / меня часто спрашивают / вам кто-то это готовит </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>да вы шо с ума спятили мне там / готовили шутки ну как это можно было / невозможно было сделать / да и ну зачем мне это надо // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>// ну вот просто это я думаю вот наверное от родителей не наверное а точно от родиетелй и жизнь сама такая </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>// иногда я часто говорил вот у меня тут говорили и когдая работал что я резко... резким был и на правительстве //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>ну вы знаете / я наверное привык к тому что / по своей природе я не люблю дураков / ну просто не люлбю / тем более с ними работать / и тем более как дураку объяснить</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>и в правительстве тоже / ну если он не понимает если / шоб ему тратить время шоб ему объяснять долго? / правильно литературно #нрзб# на чисто литературном языке? </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>да время должен был я беречь свое / из-за чего я должен объяснять ему </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>да лучше его сразу его поставить и объяснить в двух словах </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>главное ведь они понимали это / сразу поняли </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts40" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>механизм / никакого механизма / случайно / кто-то где-то / понравились / может быть где-то / такое бывает знаете как </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts45">
+                <ANNOTATION_VALUE>в командировку вот ездишь / часто встречаешься с руководителями ну / ну вот человек просто знаете аура какая-то такая / она располагает / бывает вот мм и такое шо / а #нрзб# по делу на проверку</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>да / он мне первый сказал / я даже это уже / он уже не работал уже он / </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>это он мне звонит говорит / шото мы шото встретились  / он говорит давай встретимся / когда приедешь?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>я грю я прилечу я сразу вам позвоню / позвонил встретились / он говорит / Виктор Степанович тут говорит я смотрю по интернету иногда / там столько / ты чего не издашь?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>я говорю / Борис Николаевич / честное слово я ни разу не смотрел / и ни разу не видел / чето они там пишут / кто это чето пишет </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Воробьёва Ольга" LINGUISTIC_TYPE_REF="gestures"
+        PARTICIPANT="@vsch1938" TIER_ID="@vsch1938-gestures"/>
+    <TIER ANNOTATOR="Воробьёва Ольга"
+        LINGUISTIC_TYPE_REF="gesture_meaning"
+        PARENT_REF="@vsch1938-gestures" PARTICIPANT="@vsch1938" TIER_ID="@vsch1938-gestMeaning"/>
+    <TIER ANNOTATOR="Воробьёва Ольга" LINGUISTIC_TYPE_REF="utterance"
+        PARTICIPANT="@dig1967" TIER_ID="@dig1967-text">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>в харизме сказали вы однажды надо родиться / потрясающее выражение оно прежде всего по-моему адресовано именно к вам потому что вы настоящий самородок </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE> / / талантливейший человек из народа который смогли дойти до такой вершины и / при этом / в общем-то никто не может сказать о вас плохо //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE> то что вас сегодня так часто цитируют / то что вы заняли такое место в истории / благодаря чему это произошло / что это гены это / с возрастом с опытом / что это </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>ну на ровном месте этого же не может быть </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>да вот / это домашние заготовки говорили </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE>а приходилось работать с дураками / и в правительтсве?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>некогда некогда</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE>как эти дураки доходили?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts37">
+                <ANNOTATION_VALUE>как эти дураки...?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts41">
+                <ANNOTATION_VALUE>доходчиво было // как эти дураки доходили до таких должностей? / механихзм какой-то</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>теперь вас цитируют наравне с Цицероном и Козьмой Прутковым </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts49">
+                <ANNOTATION_VALUE>а правда ли что Ельцин в своё время вас спрашивал вас / почему ты не издашь свою книжку афоризмов? </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Воробьёва Ольга" LINGUISTIC_TYPE_REF="gestures"
+        PARTICIPANT="@dig1967" TIER_ID="@dig1967-gestures"/>
+    <TIER ANNOTATOR="Воробьёва Ольга"
+        LINGUISTIC_TYPE_REF="gesture_meaning"
+        PARENT_REF="@dig1967-gestures" PARTICIPANT="@dig1967" TIER_ID="@dig1967-gestMeaning"/>
+    <TIER ANNOTATOR="Воробьёва Ольга" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="@vsch1938-text"
+        PARTICIPANT="@vsch1938" TIER_ID="transl@vsch1938">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>When I was young, I used to talk like that. I think this is a credit to my  parents, because my mother had a good sense of humor.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>Are you crazy? Why should I prepare these jokes? Why would I do that?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE> I think I got this skill from my parents. Not probably, but definitely from them.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>People often said that I answered sharply when I worked in the government.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>You know, i don't like stupid people, it's very difficult for them to explain everything.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>There was such people there too. They don't understand anything, so why should I waste time on them? Why do I need to explain something to them for a long time?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>I was saving my time, so I didn't want explain anything.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>It is better to explain everything to them at once and briefly.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a34" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>They all understood this.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a35" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>There was no system, it happens by accident. Someone liked someone ant this happens. You know how often this happens.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a36" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE> On businnes trips, a person meets with his cheaf, a magical aura appears, it helps to cooperation. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>Yes, he was the first one who told me that. and then he stopped working in the government.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a51" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>He called me and made an appointment.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a52" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>I said that as soon as I flew to him, we would meet immediately. And already there he asked me a question why everyone si already writing my words in the internet, and I am not publishing any book.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>I replied that I had never seen anything on the internet like that.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Воробьёва Ольга" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="@dig1967-text"
+        PARTICIPANT="@dig1967" TIER_ID="transl@dig1967">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a31" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>You just once said that a person needs to be born with charisma. This is amazing words. In my opinion, it is addressed to you, because you are a real talent.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>A talented person who was able to reach such a peak of his career. And even with this fact, no one can say anything bad about you. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a33" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE> You are now is very often quoted, you have taken a leading role in history of our country. What help you do this? Is it genes or does it come with expirience?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>There is definitely a reason for this.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>They said that you had chosen these words in advance.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>Have you worked with a stupid people in the government as well?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a37" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>There's no time.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a38" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>How these fools...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a39" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>How these fools...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>You explained it very clearly. How did these fools get into such higt positions? Do they have some kind of system?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE> Now you are quoted as often as Cicero and Kozma Prutkov.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>Is it true that Yeltsin once asked you why you would not publish your collection of quotations?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="phonetic_transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        CONTROLLED_VOCABULARY_REF="Gesture phases"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_phases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        CONTROLLED_VOCABULARY_REF="POS" GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
+    <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
+        LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="POS">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_a80ba8c4-bf5c-4be6-8609-b6dabd368b97">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_b6626df6-135e-46cf-b002-6efc0b690b8e">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_83755188-56ea-4576-851b-41a29f531525">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_9f7703fb-8e16-43b2-bd3e-b19be3f66baa">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_196ab3c8-cb70-45fd-bca3-92b6fb8d5d77">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_2133a227-7de8-410b-816b-b1f0aa4dc37b">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f4f79620-f777-4838-825b-534cc3c98986">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_8b6fd255-06d0-4e91-a139-47bb4fcc6fae">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_49753f7a-f0e2-4924-81c8-fcfc11f47874">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_a71d16aa-d4ff-4af2-81a9-8053c145cd97">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_7f03e7ba-c3c5-4830-b573-98f4116576a0">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e20020a3-ebc3-44ae-8c86-e18ede441021">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_5df44f84-a95f-436d-bac9-3411c55d13f3">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_540cfe40-68b8-4e3d-b236-6bde91020c4b">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_8f84b978-1826-472d-b91f-b160fc720a2b">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_a418167c-d0bc-4faa-b202-1414398c8193">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_1c5769a0-d1e5-49b5-ba73-a24ba49404c9">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
